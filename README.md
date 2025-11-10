@@ -3,7 +3,7 @@
 Mô tả: website đọc truyện tranh mã nguồn mở, chạy trên XAMPP (PHP + MySQL).
 
 ## Setup nhanh
-1. Copy thư mục `hocvientruyentranh/htdocs` vào `C:\xampp\htdocs\hocvientruyentranh`.
+1. Copy thư mục `hocvientruyentranh` vào `C:\xampp\htdocs\`.
 2. Start Apache & MySQL bằng XAMPP Control Panel.
 3. Mở `http://localhost/phpmyadmin` -> tạo database `hocvientruyentranh` và import file `db.sql`.
 4. Cập nhật `inc/config.php` nếu cần username/password khác.
